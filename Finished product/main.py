@@ -1081,9 +1081,7 @@ class USBApp:
                 widget.configure(command=self.register_window.register_user)
 
     def open_app(self):
-        #changes made
         self.root.withdraw()
-        print("hi")
         MainAppWindow(self.root)
 
 # --- App Entry ---
