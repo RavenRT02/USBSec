@@ -1,0 +1,34 @@
+10-06-2025 20:32:40 - Log cleared (secure action)
+10-06-2025 20:32:45 - Checked USB status : USB ports are Enabled
+10-06-2025 20:32:49 - User logged out
+11-06-2025 10:31:53 - User test logged in successfully
+11-06-2025 10:32:46 - User logged out
+11-06-2025 10:46:11 - User check logged in successfully
+11-06-2025 10:46:44 - User logged out
+11-06-2025 10:54:44 - User check logged in successfully
+11-06-2025 10:54:49 - User logged out
+11-06-2025 10:55:12 - User check logged in successfully
+11-06-2025 10:55:18 - User logged out
+11-06-2025 13:46:00 - User check logged in successfully
+11-06-2025 13:46:11 - User logged out
+11-06-2025 14:10:36 - User check logged in successfully
+11-06-2025 14:11:04 - Incorrect Password Attempt to disabled usb ports, Attempt - 1
+11-06-2025 14:11:09 - Incorrect Password Attempt to disabled usb ports, Attempt - 2
+11-06-2025 14:11:13 - Incorrect Password Attempt to disabled usb ports, Attempt - 3
+11-06-2025 14:11:23 - Captured webcam image: failed_usb_20250611_141123_1.jpg
+11-06-2025 14:11:24 - Captured webcam image: failed_usb_20250611_141124_2.jpg
+11-06-2025 14:11:25 - Captured webcam image: failed_usb_20250611_141125_3.jpg
+11-06-2025 14:17:23 - User check logged in successfully
+11-06-2025 14:17:55 - Incorrect Password Attempt to disabled usb ports, Attempt - 1
+11-06-2025 14:17:57 - Incorrect Password Attempt to disabled usb ports, Attempt - 2
+11-06-2025 14:18:00 - Incorrect Password Attempt to disabled usb ports, Attempt - 3
+11-06-2025 14:18:03 - Captured webcam image: failed_usb_20250611_141803_1.jpg
+11-06-2025 14:18:04 - Captured webcam image: failed_usb_20250611_141804_2.jpg
+11-06-2025 14:18:05 - Captured webcam image: failed_usb_20250611_141805_3.jpg
+11-06-2025 14:18:13 - Incorrect Password Attempt to disabled usb ports, Attempt - 1
+11-06-2025 14:26:05 - Failed login attempt - attempt 1
+11-06-2025 14:26:08 - Failed login attempt - attempt 2
+11-06-2025 14:26:10 - Failed login attempt - attempt 3
+11-06-2025 14:26:11 - Failed login attempt - attempt 4
+11-06-2025 14:26:16 - User check logged in successfully
+11-06-2025 14:31:52 - User check logged in successfully
